@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HdCLktVr9dJZdWlhzYzsQ+ecG4YYcjdqe4JUcaNN9pMQvkGm0+zDc4/g27LV0mX8eATb+vD9obVZCqJ8gpd2JQ==",
+  "dgSpecHash": "KmJR+S6KG1Rv9AAgth2cPM7lO4pqWUHGwsOzB2AiHiqhIZl5+D0K7YTVO8ORWSzxfGINSy34NWTzYpmyWUWzBQ==",
   "success": true,
-  "projectFilePath": "D:\\SLGit\\WPFDemoCode\\WpfAppDemo\\WpfAppDemo.csproj",
+  "projectFilePath": "D:\\SLGit\\WPFDemoCode\\WpfAppDemo\\MatchGame.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

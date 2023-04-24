@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SLGit\\WPFDemoCode\\WpfAppDemo\\WpfAppDemo.csproj",
-      "projectName": "WpfAppDemo",
-      "projectPath": "D:\\SLGit\\WPFDemoCode\\WpfAppDemo\\WpfAppDemo.csproj",
+      "projectUniqueName": "D:\\SLGit\\WPFDemoCode\\WpfAppDemo\\MatchGame.csproj",
+      "projectName": "MatchGame",
+      "projectPath": "D:\\SLGit\\WPFDemoCode\\WpfAppDemo\\MatchGame.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "D:\\SLGit\\WPFDemoCode\\WpfAppDemo\\obj\\",
       "projectStyle": "PackageReference",
